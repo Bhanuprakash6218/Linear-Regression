@@ -11,6 +11,6 @@ To find the factors contributing to the lower value of Life Expectancy and check
 
 3.) Factors Contributing to lower value of Life Expectancy are Adult Mortality, Infant Deaths, Under Five Deaths, thinness 1-19 years, thinness 5-9 years, Alcohol Intake, Measles
 
-4.)Mean Absolute Error is 2.180973515165459e-09.
+4.) Mean Absolute Error is 2.180973515165459e-09.
 
 
