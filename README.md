@@ -1,7 +1,7 @@
 # Linear-Regression
 The data was collected from WHO and United Nations website for year 2000-2015 for 193 countries for analysis of factors actually affecting the life expectancy.
 
-# GOAL
+# Goal
 To find the factors contributing to the lower value of Life Expectancy and check the performance metrics on it.
 
 # Observations
