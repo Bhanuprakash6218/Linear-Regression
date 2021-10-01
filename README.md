@@ -2,7 +2,7 @@
 The data was collected from WHO and United Nations website for year 2000-2015 for 193 countries for analysis of factors actually affecting the life expectancy.
 
 # GOAL
-To find the factors contributing to the lower value of Life Expectancy.
+To find the factors contributing to the lower value of Life Expectancy and check the performance metrics on it.
 
 # Observations
 1.) Given Life expectancy factors = 22 = ( Country, Year , Status, Life expectancy, Adult Mortality, infant deaths, Alcohol, percentage expenditure, Hepatitis B, Measles, BMI, under-five deaths, Polio, Total expenditure, Diphtheria, HIV/AIDS, GDP, Population, thinness 1-19 years, thinness 5-9 years, Income composition of resource, Schooling)
@@ -11,5 +11,6 @@ To find the factors contributing to the lower value of Life Expectancy.
 
 3.) Factors Contributing to lower value of Life Expectancy are Adult Mortality, Infant Deaths, Under Five Deaths, thinness 1-19 years, thinness 5-9 years, Alcohol Intake, Measles
 
+4.)Mean Absolute Error is 2.180973515165459e-09.
 
 
